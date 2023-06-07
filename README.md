@@ -46,7 +46,7 @@ print(X)
 ![image](https://github.com/Surendhar6/LU-Decomposition/assets/118352907/d0667678-993b-447a-92b4-162c3adcdfca)
 
 (ii) To find the LU Decomposition of a matrix
-![image](https://github.com/Surendhar6/LU-Decomposition/assets/118352907/ec1218bf-98d5-49d6-b8f7-3ccec46f73e9)
+![image](https://github.com/Surendhar6/LU-Decomposition/assets/118352907/b5c7e2dc-1366-453b-8a49-b2ceea2c62a4)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
